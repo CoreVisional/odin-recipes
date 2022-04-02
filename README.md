@@ -9,3 +9,5 @@ This project is part of the Odin Project's Foundation Path for HTML. In this pro
 -   Underlining, italicize, and bolding outside and within paragraphs
 -   Line breaking for readability
 -   Structuring HTML elements.
+
+[Click Here To View Website](https://corevisional.github.io/odin-recipes/)
